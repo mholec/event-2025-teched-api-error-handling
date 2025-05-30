@@ -1,4 +1,8 @@
 # TechEd 2025 - Workshops API
+
+> [!NOTE]  
+> Níže uvedená dokumentace k projektu je automaticky generovaná službou GitHub Copilot.
+
 ## Ukázka práce s chybovými stavy v ASP.NET Core Minimal APIs
 
 Tato aplikace je ukázkou pro konferenci TechEd 2025, která demonstruje pokročilé techniky řešení chybových stavů v ASP.NET Core Minimal APIs. Aplikace implementuje systém pro správu workshopů a registrací účastníků s komplexním zpracováním chyb.
